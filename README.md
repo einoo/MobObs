@@ -3,7 +3,7 @@ Story of the research on fixed observation network
 ## Motivation
 
 I have examined the adaptive observations by 40-variable Lorenz-96 model: 
-$$ \frac{dx_i}{dt}=(x_{i+1}-x_{i-2})x_{i-1} - x_i + F, $$ 
+$$\frac{dx_i}{dt}=(x_{i+1}-x_{i-2})x_{i-1} - x_i + F,$$ 
 where $F$ is the forcing and the variable $x_i$ is taken to be periodic: $x_{i+n} = x_{i}$.
 In this study, we set $n=40$ and $F=8$.  The
 nodes numbered from 1 to 20 lie over the ocean, and those from 21 to 40 lie over
