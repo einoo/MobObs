@@ -1,5 +1,7 @@
 Story of the research on fixed observation network
 
+This is the correct one.
+
 ## Motivation
 
 I have examined the adaptive observations by 40-variable Lorenz-96 model: 
