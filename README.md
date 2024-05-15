@@ -1,6 +1,8 @@
-Story of the research on fixed observation network
+Reduced adaptive observation experiment
 
 ## Motivation
+
+Assimilate at every 10 time step. 
 
 I have examined the adaptive observations by 40-variable Lorenz-96 model: 
 $$\frac{dx_i}{dt}=(x_{i+1}-x_{i-2})x_{i-1} - x_i + F,$$ 
