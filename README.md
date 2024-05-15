@@ -1,4 +1,14 @@
-Reduced adaptive observation experiment
+# RAOE: Reduced adaptive observation experiment
+
+This document presents the open source code for the reduced adaptive observation experiment. 
+
+Here can also be a supplementary to support the conclusions of the paper. 
+
+`No, supplementary will be submitted along the manuscript. Here is mainly for the open source code and data`. 
+
+## Lorenz-96 Model && SPEEDY-LETKF model
+
+## Chapters Sections Directories
 
 ## Motivation
 
